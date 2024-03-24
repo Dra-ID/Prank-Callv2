@@ -13,7 +13,7 @@ ls
 pip install -r requirements.txt
 cd $HOME
 ```
-~ sesduah Install Yang di Atas tinggal Jalanin aja Yang di Bawa
+• `sesduah Install Yang di Atas tinggal Jalanin aja Yang di Bawa`
 ```
 cd Prank-Callv2
 python run.py
