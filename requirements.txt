@@ -4,6 +4,7 @@ colorama
 beautifulsoup4
 rich
 crypto
+pycryptodome
 fake_useragent
 datetime
 inquirer
