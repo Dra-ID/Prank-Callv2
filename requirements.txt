@@ -3,6 +3,7 @@ bs4
 colorama
 beautifulsoup4
 rich
+crypto
 fake_useragent
 datetime
 inquirer
